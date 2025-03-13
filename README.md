@@ -1,4 +1,4 @@
-# Analisis_LEGO_R
+# Análisis LEGO con R
 Código en R que analiza un data frame sobre sets de LEGO. Realizamos primero una limpieza de los datos y una vez limpia nuestra fuente de datos, podemos empezar a analizar. 
 
 
