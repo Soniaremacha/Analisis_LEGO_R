@@ -1,7 +1,7 @@
 # 🧱 Análisis LEGO con R
 Código en R que analiza un data frame sobre sets de LEGO.  
 
-## Página Web
+## 🌐 Página Web
 Puedes explorar este análisis sin necesidad de instalar nada clicando [aquí](https://soniaremacha.github.io/Analisis_LEGO_R/Analisis_LEGO.html).
 
 ## 🧹 Limpieza de datos
