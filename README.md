@@ -1,6 +1,9 @@
 # 🧱 Análisis LEGO con R
 Código en R que analiza un data frame sobre sets de LEGO.  
 
+## Página Web
+Puedes explorar este análisis sin necesidad de instalar nada clicando [aquí]().
+
 ## 🧹 Limpieza de datos
 Este dataset presenta muchos problemas de limpieza. Gran parte del código se dedica a la decisión de eliminar según qué NA, decidir qué puede ser relevante para el estudio y discernir información veraz de un dataset conflictivo.
 
